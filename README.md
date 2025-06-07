@@ -56,17 +56,3 @@ Merhaba, ben Muhammed Yılmaz. Kariyerime iOS geliştiricisi olarak odaklanıyor
 ---
 
 > 💬 Bana ulaşmak istersen, LinkedIn veya e-posta üzerinden her zaman iletişime geçebilirsin!
-
----
-
-### ⭐ GitHub profilin için bu README’yi kullanmak istersen:
-
-1. GitHub'da kendi profilinin adıyla (örnek: `memuhammedyilmaz`) bir repository oluştur.
-2. İçine `README.md` adlı bir dosya ekle.
-3. Yukarıdaki kodu bu dosyaya yapıştır.
-4. Gerekli yerleri (LinkedIn linki, projeler vs.) kendine göre güncelle.
-
----
-
-İstersen aynı tasarımın İngilizcesini de hazırlayabilirim veya GitHub Pages ile özel bir web sayfası haline getirebilirim.  
-Devam edelim mi?
