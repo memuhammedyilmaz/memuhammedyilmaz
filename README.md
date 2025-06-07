@@ -1,6 +1,6 @@
 <!-- PROFİL BANNERI -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Merhaba,+ben+Mehmet+Yılmaz!;Yazılım+Geliştiriciyim+%F0%9F%92%BB;Projelerimi+inceleyebilirsin+%F0%9F%91%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Merhaba,+ben+Muhammed+Yılmaz!;Yazılım+Geliştiriciyim+%F0%9F%92%BB;Projelerimi+inceleyebilirsin+%F0%9F%91%87" alt="Typing SVG" />
 </p>
 
 <!-- SOSYAL MEDYA İKONLARI -->
@@ -8,10 +8,10 @@
   <a href="https://github.com/memuhammedyilmaz" target="_blank">
     <img src="https://img.shields.io/github/followers/memuhammedyilmaz?label=GitHub&style=social" />
   </a>
-  <a href="https://linkedin.com/in/kendi-linkedin-profilin" target="_blank">
+  <a href="https://linkedin.com/in/memuhammedyilmaz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:mailadresin@gmail.com">
+  <a href="mailto:info@muhammedyilmaz.co">
     <img src="https://img.shields.io/badge/E--Posta-DarkRed?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,8 +20,8 @@
 
 ## 👋 Hakkımda
 
-Merhaba! Ben **Mehmet Muhammed Yılmaz**, yazılım geliştirmeyi ve yeni teknolojiler öğrenmeyi seven bir geliştiriciyim.  
-İlgi alanlarım arasında:
+Merhaba, ben Muhammed Yılmaz. Kariyerime iOS geliştiricisi olarak odaklanıyorum ve Apple ekosistemine değer katan yenilikçi uygulamalar oluşturma konusunda tutkuluyum. iOS platformunun sunduğu en son teknolojileri, özellikle Swift ve SwiftUI'yi kullanarak performanslı, ölçeklenebilir ve kullanıcı merkezli uygulamalar oluşturuyorum.
+İlgi Alanlarım Arasında:
 
 - 📱 Mobil Uygulama Geliştirme (iOS – Swift)
 - 🌐 Web teknolojileri
@@ -32,7 +32,7 @@ Merhaba! Ben **Mehmet Muhammed Yılmaz**, yazılım geliştirmeyi ve yeni teknol
 ## 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,xcode,js,html,css,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=swift,js,html,css,github,vscode&theme=light" />
 </p>
 
 ---
