@@ -32,7 +32,7 @@ Merhaba! Ben **Mehmet Muhammed Yılmaz**, yazılım geliştirmeyi ve yeni teknol
 ## 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,xcode,js,html,css,react,python,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=swift,xcode,js,html,css,github,vscode&theme=light" />
 </p>
 
 ---
