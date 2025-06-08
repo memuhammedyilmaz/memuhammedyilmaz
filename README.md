@@ -4,7 +4,7 @@ Hello, I'm Muhammed Yılmaz. I'm focusing on my career as an iOS developer and I
 
 🌐 Website: [memuhammedyilmaz.com](https://muhammedyilmaz.co)
 
-
+📄 [View My CV (PDF)](https://github.com/memuhammedyilmaz/memuhammedyilmaz/blob/main/MuhammedYilmaz.pdf)
 
 My main interests include:
 
