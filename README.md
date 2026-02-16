@@ -2,7 +2,7 @@
 
 Hello, I'm Muhammed Yılmaz. I'm focusing on my career as an iOS developer and I'm passionate about building innovative apps that add value to the Apple ecosystem. I build performant, scalable, and user-centric apps using the latest technologies that the iOS platform has to offer, especially Swift and SwiftUI 
 
-🌐 Website: [muhammedyilmaz.co](https://muhammedyilmaz.co)
+🌐 Website: [muhammedyilmaz.co](https://muhammedylmz.com)
 
 📄 [View My CV (PDF)](https://github.com/memuhammedyilmaz/memuhammedyilmaz/blob/main/MuhammedYilmaz.pdf)
 
